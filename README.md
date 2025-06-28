@@ -1,4 +1,4 @@
-# mobile
+# Lumeo
 
 A new Flutter project.
 
